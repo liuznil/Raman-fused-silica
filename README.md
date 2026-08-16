@@ -4,7 +4,7 @@
 outputs/
 ├── 研究报告_拉曼峰形演化分析.md   本文件
 ├── TO_sequence_fit_quality.csv          14条TO光谱拟合
-├── peak_shape_results.csv               27条光谱记录 × 全部峰形/载荷/深度参数
+├── peak_shape_results.csv               28条光谱记录 × 全部峰形/载荷/深度参数
 ├── summary_stats.csv                     各配置(TO/CO × load/unload)摘要统计
 ├── correlation_stats.csv                 载荷-峰形参数 Pearson相关系数与p值
 ├── pca_loadings.csv                      PCA载荷矩阵 (12特征在PC1/PC2上的权重)
