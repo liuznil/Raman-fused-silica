@@ -2,19 +2,20 @@
 
 ```
 outputs/
-├── 研究报告_拉曼峰形演化分析_SCI版.md   本文件
+├── 研究报告_拉曼峰形演化分析.md   本文件
+├── TO_sequence_fit_quality.csv          14条TO光谱拟合
 ├── peak_shape_results.csv               27条光谱记录 × 全部峰形/载荷/深度参数
 ├── summary_stats.csv                     各配置(TO/CO × load/unload)摘要统计
 ├── correlation_stats.csv                 载荷-峰形参数 Pearson相关系数与p值
 ├── pca_loadings.csv                      PCA载荷矩阵 (12特征在PC1/PC2上的权重)
 ├── pca_scores.csv                        PCA得分 + 原始特征
-├── figures/ (300 dpi, 英文标注, 适配期刊投稿；图号按论文阅读顺序编号)
+├── figures/ (300 dpi, 英文标注, 图号按论文阅读顺序编号)
 │   ├── fig1_fwhm_hysteresis.png            Fig.1 [3.1]
 │   ├── fig2_skewness_vs_load.png           Fig.2 [3.1]
 │   ├── fig3_D2main_ratio.png               Fig.3 [3.1]
 │   ├── fig4_position_vs_skewness.png       Fig.4 [3.1]
-│   ├── fig5_spectrum_decomposition.png     Fig.5 [3.2, 新增] 代表性光谱分解
-│   ├── fig6_fit_quality_waterfall.png      Fig.6 [3.2, 新增] 全序列拟合质量瀑布图
+│   ├── fig5_spectrum_decomposition.png     Fig.5 [3.2] 代表性光谱分解
+│   ├── fig6_fit_quality_waterfall.png      Fig.6 [3.2] 全序列拟合质量瀑布图
 │   ├── fig7_pristine_vs_residual.png       Fig.7 [3.4]
 │   └── fig8_pca_scores.png                 Fig.8 [3.5]
 └── src/
