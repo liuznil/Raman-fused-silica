@@ -1,0 +1,5 @@
+objective,segment,d12_D1_fraction_total_mean,d12_D1_fraction_total_std,d12_D2_fraction_total_mean,d12_D2_fraction_total_std,d12_R_fraction_total_mean,d12_R_fraction_total_std
+CO,loading,0.36135,0.02256,0.30666,0.13214,0.33199,0.15191
+CO,unloading,0.38069,0.021,0.37564,0.03239,0.24367,0.0126
+TO,loading,0.30221,0.01548,0.37395,0.16251,0.32384,0.15601
+TO,unloading,0.31772,0.05016,0.4269,0.07424,0.25538,0.02488
